@@ -8,13 +8,13 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/05955eda-f1be-4439-8813-c496708a8760
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-### Run via browser
+## Run via browser
 
 https://smart-analyzer-most-ai.vercel.app/
+
+### Run Locally
+
+**Prerequisites:**  Node.js
 
 
 1. Install dependencies:
