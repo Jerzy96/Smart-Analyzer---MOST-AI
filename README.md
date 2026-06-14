@@ -12,6 +12,10 @@ View your app in AI Studio: https://ai.studio/apps/05955eda-f1be-4439-8813-c4967
 
 **Prerequisites:**  Node.js
 
+### Run via browser
+
+https://smart-analyzer-most-ai.vercel.app/
+
 
 1. Install dependencies:
    `npm install`
